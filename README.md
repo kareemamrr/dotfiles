@@ -1,10 +1,10 @@
 # Dotfiles
 
 ## Available dotfiles
-- .gitconfig
-- .vimrc
-- .zshrc
-- alacritty.yml
+- gitconfig
+- vimrc
+- zshrc
+- alacritty
 
 ## Dependencies
 ### Alacritty
